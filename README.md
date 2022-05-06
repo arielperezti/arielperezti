@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @arielperezti
-- 👀 I’m interested in software development
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently learning JavaScript and React JS
 - 💞️ I’m looking to collaborate on web projects
-- 📫 How to reach me:
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="arielperezti" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/arielperezti?trk=profile-badge">Ariel José Perez</a></div>
+- 📫 How to reach me: 
+LinkedIn: <div href="https://co.linkedin.com/in/arielperezti">Ariel José Perez</a></div>
+Instagram: <div href="https://www.instagram.com/arieljpt/">@arieljpt</a></div>
                
 
 <!---
