@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me:
           🔵LinkedIn: <a href="https://co.linkedin.com/in/arielperezti" target="_blank">Ariel José Perez</a>
-          🔴Instagram: <a href="https://instagram.com/arieljpt"target="_blank">@arieljpt</a>
+          🔴Instagram: <a href="https://instagram.com/arieljpt" target="_blank">@arieljpt</a>
               
               
 <!---
