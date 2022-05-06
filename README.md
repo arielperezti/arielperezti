@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning JavaScript and React JS
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me:
-          - LinkedIn: <a href="https://co.linkedin.com/in/arielperezti">Ariel José Perez</a>
-          - Instagram: <a href="https://instagram.com/arieljpt">@arieljpt</a>
+          🔵LinkedIn: <a href="https://co.linkedin.com/in/arielperezti" target="_blank">Ariel José Perez</a>
+          🔴Instagram: <a href="https://instagram.com/arieljpt"target="_blank">@arieljpt</a>
               
               
 <!---
